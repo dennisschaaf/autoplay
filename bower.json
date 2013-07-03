@@ -1,0 +1,10 @@
+{
+  "name": "autoplay",
+  "version": "0.0.1",
+  "main": "autoplay.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ]
+}
